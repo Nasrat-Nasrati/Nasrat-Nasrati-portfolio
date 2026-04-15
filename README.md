@@ -1,139 +1,119 @@
-# Hi 👋, I'm Nasrat Nasrati
+# Hi 👋, I'm **Nasrat Nasrati**
 
-💻 Full Stack Developer (Java + React) | Python & Django Specialist | ERP (Odoo) Developer  
-📍 Kabul, Afghanistan  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+(Java+%2B+React);Python+%26+Django+Specialist;Odoo+ERP+Developer;Building+Scalable+Products+with+Clean+Architecture" alt="Typing header" />
+</p>
 
----
-
-## 🚀 About Me
-
-Highly skilled Information Systems Specialist with strong experience in full stack development, database engineering, and ERP system implementation.
-
-I specialize in building scalable systems using **Java, Spring Boot, React, Python, and Django**, along with designing optimized database solutions using **PostgreSQL**.
-
-I enjoy solving complex problems, integrating APIs, and building real-world systems that improve efficiency and performance.
+<p align="center">
+  <a href="https://github.com/Nasrat-Nasrati"><img src="https://img.shields.io/github/followers/Nasrat-Nasrati?label=Follow&style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Nasrat-Nasrati&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" alt="Open to opportunities" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Skills & Tech Badges
 
-### 💻 Backend Development
-- Python, Django, Django REST Framework (DRF)
-- Java, Spring Boot
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### 🎨 Frontend Development
-- React.js, JavaScript
-- HTML5, CSS3, Bootstrap, Tailwind CSS
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Database Management
-- PostgreSQL, MySQL, SQLite
-- Database Design, Optimization, Indexing
+### 🗄️ Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### ⚙️ ERP Systems
-- Odoo ERP (Custom Modules & Implementation)
-
-### ☁️ Cloud & Tools
-- AWS EC2, AWS S3
-- Virtual Machines (VMs)
-
-### 🔧 Version Control
-- Git, GitHub, GitLab
-
----
-
-## 💼 Professional Experience
-
-### 🏢 MCIT – Ministry of Communications and IT (2023 – Present)
-**Information Systems Development Specialist**
-- Developed full stack systems using modern technologies  
-- Built and customized Odoo ERP modules  
-- Integrated third-party APIs and services  
-- Performed unit, integration, and regression testing  
+### 🏢 ERP
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ---
 
-### 🏢 NSIA – National Statistics and Information Authority (2021 – 2022)
-**Database Developer**
-- Designed optimized database schemas for Django ORM  
-- Developed REST APIs using DRF  
-- Wrote complex SQL queries and stored procedures  
-- Implemented authentication and authorization systems  
+## 🌐 Portfolio Website (React / Next.js)
+
+> 🚀 **Recommended:** Build and deploy a dedicated portfolio website with sections for Hero, Projects, Skills, Experience, Certifications, and Contact.
+
+- **Stack idea:** Next.js + Tailwind CSS + Framer Motion
+- **Key pages:** Home, Projects, Resume, Contact
+- **Optional:** Blog + case studies for major projects
 
 ---
 
-### 🏢 Ministry of Urban Development (2019 – 2020)
-**Database Manager**
-- Managed PostgreSQL databases and performance tuning  
-- Implemented backup and disaster recovery systems  
-- Designed replication and scaling strategies  
+## 📌 Featured Projects (Pinned Style)
+
+> Replace repo names below with your best repositories to showcase your strongest abilities.
+
+<p align="center">
+  <a href="https://github.com/Nasrat-Nasrati/project-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nasrat-Nasrati&repo=project-management-system&theme=transparent" />
+  </a>
+  <a href="https://github.com/Nasrat-Nasrati/fleet-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nasrat-Nasrati&repo=fleet-management-system&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nasrat-Nasrati/ecommerce-web-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nasrat-Nasrati&repo=ecommerce-web-app&theme=transparent" />
+  </a>
+  <a href="https://github.com/Nasrat-Nasrati/new-kabul-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nasrat-Nasrati&repo=new-kabul-system&theme=transparent" />
+  </a>
+</p>
 
 ---
 
-## 📂 Projects
+## 📈 GitHub Activity & Snake Contribution Graph
 
-### 🔹 Project Management System
-- Developed using Odoo ERP for MCIT  
-- Custom workflows and modules  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasrat-Nasrati&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrat-Nasrati&layout=compact&theme=transparent" alt="Top languages" />
+</p>
 
-### 🔹 Fleet Management System
-- Built ERP-based fleet tracking and management system  
-
-### 🔹 Ecommerce Web Application
-- Full stack design and development  
-
-### 🔹 New Kabul System
-- System analysis, design, and development  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nasrat-Nasrati/Nasrat-Nasrati/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience Snapshot
 
-![Nasrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasrat-Nasrati&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrat-Nasrati&layout=compact)
-
----
-
-## 🌱 Currently Working On
-- Advanced Full Stack Systems  
-- ERP Customization (Odoo)  
-- API Development and Integration  
-
----
-
-## 🎓 Education
-
-🎓 Bachelor of Computer Science (Information Systems)  
-Kabul Education University (2015 – 2018)
-
----
-
-## 📜 Certifications
-
-- HTML, CSS, JavaScript – SoloLearn  
-- PHP, MySQL – SoloLearn  
-- Cyber Security Awareness  
-- Job Readiness Program  
+- **Information Systems Development Specialist** — MCIT (2023 – Present)
+- **Database Developer** — NSIA (2021 – 2022)
+- **Database Manager** — Ministry of Urban Development (2019 – 2020)
 
 ---
 
 ## 🌍 Languages
 
-- English (Fluent)  
-- Dari (Fluent)  
-- Pashto (Fluent)  
+- English (Fluent)
+- Dari (Fluent)
+- Pashto (Fluent)
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 Email: ehnn2020@gmail.com  
-📱 Phone: +93 770 694 437  
-🔗 LinkedIn: https://www.linkedin.com/in/nasrat-nasrati-691256199/  
-💻 GitHub: https://github.com/Nasrat-Nasrati  
+- 📧 Email: **ehnn2020@gmail.com**
+- 📱 Phone: **+93 770 694 437**
+- 🔗 LinkedIn: **[nasrat-nasrati-691256199](https://www.linkedin.com/in/nasrat-nasrati-691256199/)**
+- 💻 GitHub: **[Nasrat-Nasrati](https://github.com/Nasrat-Nasrati)**
 
 ---
 
-## 🤝 References
+## ✅ Next Steps
 
-Available upon request
+1. Create/update the repos used in the pinned cards.
+2. Build your dedicated portfolio in React/Next.js.
+3. Enable snake workflow in your profile repo (`Nasrat-Nasrati/Nasrat-Nasrati`) so the animation renders.
