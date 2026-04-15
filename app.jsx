@@ -3,14 +3,14 @@ const { useEffect, useMemo, useState } = React;
 const githubUsername = "Nasrat-Nasrati";
 
 const roles = [
-  "Full Stack Developer (Java + React)",
+  "Full Stack Developer (Python + React)",
   "Python & Django Specialist",
   "ERP (Odoo) Developer",
   "Database Engineer (PostgreSQL)",
 ];
 
 const skillGroups = [
-  { title: "Backend", skills: ["Python", "Django", "DRF", "Java", "Spring Boot"] },
+  { title: "Backend", skills: ["Python", "Django", "DRF", "Java"] },
   { title: "Frontend", skills: ["React.js", "JavaScript", "HTML5", "CSS3", "Tailwind", "Bootstrap"] },
   { title: "Databases", skills: ["PostgreSQL", "MySQL", "SQLite", "Query Optimization"] },
   { title: "ERP & Tools", skills: ["Odoo", "AWS EC2", "AWS S3", "Git", "GitHub", "GitLab"] },
